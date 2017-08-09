@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+
+body
+{
+    font-family: Lobster, sans-serif;
+    background-color: FloralWhite;
+}
+
+.main-container
+{
+    font-family: sans-serif;
+    margin: 20px 5% 30px 5%;
+    padding: 40px 40px 40px 40px;
+    border-radius: 5px;
+    background-color: LightGrey;
+    text-align: center;
+}
+
+.about-me
+{
+    background-color: White;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.image-author
+{
+    border-radius: 20%;
+}
+
+.portfolio
+{
+    background-color: White;
+    padding: 30px;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.portfolio img
+{
+    padding: 20px;
+    display: block;
+    margin: auto;
+}
+
+.social-buttons
+{
+    margin: 10px 0px 10px 0px;
+    padding: 30px 15px 30px 15px;
+    border-radius: 5px;
+    background-color: White;
+    text-align: center;
+}
+
+#contact-title
+{
+    padding-bottom: 20px;
+}
+
+.page-info
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
